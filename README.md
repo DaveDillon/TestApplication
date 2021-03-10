@@ -26,6 +26,6 @@ Visual Studio 19 and .net core 3.1 is required.
     * Uploaded. (created in just over two hours >.<)
 
 
-## Meta
+## Contact
 
 David Dillon – Mayhem50@gmail.com
