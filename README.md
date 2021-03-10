@@ -1,5 +1,6 @@
-# Product Name
-> Test Application: Basic login and data fetching.
+# Test Application
+> Basic login and data fetching.
+
 
 
 Written for a code test. I'm looking to turn this into a basic template for code tests with asp.net Idenity and Nlog logging
