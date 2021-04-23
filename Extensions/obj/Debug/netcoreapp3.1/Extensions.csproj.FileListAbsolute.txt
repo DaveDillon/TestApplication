@@ -1,0 +1,9 @@
+C:\dev\TestApplication\Extensions\bin\Debug\netcoreapp3.1\Extensions.deps.json
+C:\dev\TestApplication\Extensions\bin\Debug\netcoreapp3.1\Extensions.dll
+C:\dev\TestApplication\Extensions\bin\Debug\netcoreapp3.1\Extensions.pdb
+C:\dev\TestApplication\Extensions\obj\Debug\netcoreapp3.1\Extensions.csprojAssemblyReference.cache
+C:\dev\TestApplication\Extensions\obj\Debug\netcoreapp3.1\Extensions.AssemblyInfoInputs.cache
+C:\dev\TestApplication\Extensions\obj\Debug\netcoreapp3.1\Extensions.AssemblyInfo.cs
+C:\dev\TestApplication\Extensions\obj\Debug\netcoreapp3.1\Extensions.csproj.CoreCompileInputs.cache
+C:\dev\TestApplication\Extensions\obj\Debug\netcoreapp3.1\Extensions.dll
+C:\dev\TestApplication\Extensions\obj\Debug\netcoreapp3.1\Extensions.pdb

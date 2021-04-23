@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ClaimsCrawford
+namespace APIApp
 {
     public class Program
     {

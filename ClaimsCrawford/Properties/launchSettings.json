@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "ClaimsCrawford": {
+    "APIApp": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",

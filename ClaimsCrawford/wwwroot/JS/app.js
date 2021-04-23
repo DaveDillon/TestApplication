@@ -23,8 +23,8 @@ var renderContent = function (data) {
     $('#loginModal').modal('hide');
     $('#UserName').text(data.userModel.userName);
 
-    var ClaimsData = data.dataModel;
-    $.each(ClaimsData, function (key, value) {
+    var OrderData = data.dataModel;
+    $.each(OrderData, function (key, value) {
 
         // Generating html like this is ok for small sets of data.
         // Better than dealing with string templates later.
